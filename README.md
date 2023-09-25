@@ -1,4 +1,4 @@
-# Lead-Scoring-Case-Study-Upgrad
+# Lead Scoring Case Study
 Problem Statement
 
  An education company named X Education sells online courses to industry professionals.
